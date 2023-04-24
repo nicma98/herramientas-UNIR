@@ -1,3 +1,10 @@
-body{
-    background-color: aqua;
+.main{
+    max-width: 500px;
+    margin: auto;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.title-page{
+    font-size: 2em;
 }
